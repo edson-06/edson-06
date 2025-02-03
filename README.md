@@ -17,13 +17,13 @@ I'm Edson
 -->
 <pre>
     
-  I'm Edson
-  ---------------------------------------------------------------------------
-  💻 Software Developer passionate about technology.
-  🚀 Currently working with Java, C#, Python, Dart and SQL.
-  📚 Learning new technologies and best development practices.
-  💡 Goal: Keep growing as a developer and contribute to innovative projects.
-  ---------------------------------------------------------------------------
+I'm Edson
+---------------------------------------------------------------------------
+💻 Software Developer passionate about technology.
+🚀 Currently working with Java, C#, Python, Dart and SQL.
+📚 Learning new technologies and best development practices.
+💡 Goal: Keep growing as a developer and contribute to innovative projects.
+---------------------------------------------------------------------------
 </pre>
 <br>
 
