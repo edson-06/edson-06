@@ -3,6 +3,7 @@
 <h1 align="center"><b>Hi there!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
+<!--
 ```
 
 I'm Edson
@@ -13,7 +14,17 @@ I'm Edson
 💡 Goal: Keep growing as a developer and contribute to innovative projects.
 ---------------------------------------------------------------------------
 ```
-
+-->
+<pre>
+    
+  I'm Edson
+  ---------------------------------------------------------------------------
+  💻 Software Developer passionate about technology.
+  🚀 Currently working with Java, C#, Python, Dart and SQL.
+  📚 Learning new technologies and best development practices.
+  💡 Goal: Keep growing as a developer and contribute to innovative projects.
+  ---------------------------------------------------------------------------
+</pre>
 <br>
 
 <div align="center">
