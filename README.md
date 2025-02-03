@@ -16,7 +16,7 @@ I'm Edson
 -----------------------------------------------------------------------------
 ```
 -->
-<pre>
+<pre style="white-space: pre-wrap; word-wrap: break-word; max-width: 100%;">
   I'm Edson
   -----------------------------------------------------------------------------
   💻 Software Developer passionate about technology and continuous improvement.
