@@ -3,6 +3,7 @@
 <h1 align="center"><b>Hi there!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
+<!-- 
 ```
 
 I'm Edson
@@ -14,13 +15,23 @@ I'm Edson
 💡 Goal: Keep growing as a developer and contribute to innovative projects.
 -----------------------------------------------------------------------------
 ```
-
+-->
+<pre>
+  I'm Edson
+  -----------------------------------------------------------------------------
+  💻 Software Developer passionate about technology and continuous improvement.
+  🚀 Currently working with Java, C#, Python, Dart and SQL.
+  📚 Always learning new technologies and best development practices.
+  📝 I have a strong interest in Data Science and Artificial Intelligence
+  💡 Goal: Keep growing as a developer and contribute to innovative projects.
+  -----------------------------------------------------------------------------
+</pre>
 <br>
 
 <div align="center">
   <h2>💻 Tech Stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,dart,java,js,py,ts,dotnet,angular,bootstrap,fastapi,flutter,mongodb,mysql,git,github,docker,postman,vscode,linux&perline=16" />
+    <img src="https://skillicons.dev/icons?i=c,cs,dart,java,js,py,ts,dotnet,angular,bootstrap,fastapi,flutter,mongodb,mysql,git,github,docker,postman,vscode,linux&perline=10" />
   </a>
 </div>
 
