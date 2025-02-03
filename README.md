@@ -6,13 +6,13 @@
 ```
 
 I'm Edson
-------------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 💻 Software Developer passionate about technology and continuous improvement.
 🚀 Currently working with Java, C#, Python, Dart and SQL.
 📚 Always learning new technologies and best development practices.
 📝 I have a strong interest in Data Science and Artificial Intelligence
 💡 Goal: Keep growing as a developer and contribute to innovative projects.
-------------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 ```
 
 <br>
