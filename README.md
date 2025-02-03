@@ -1,6 +1,6 @@
 <hr>
 <br>
-<h1 align="center"><b>Hi there!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1><b>Hi there!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 <!--
@@ -27,15 +27,15 @@ I'm Edson
 </pre>
 <br>
 
-<div align="center">
+<div>
   <h2>💻 Tech Stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,dart,java,js,py,ts,dotnet,angular,bootstrap,fastapi,flutter,mongodb,mysql,git,github,docker,postman,vscode,linux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cs,dart,java,js,py,ts,dotnet,angular,bootstrap,fastapi,flutter,mongodb,mysql,git,github,docker,postman,vscode,linux&perline=16" />
   </a>
 </div>
 
 <div>
-  <h2 align="center">📊 Github stats</h2> 
+  <h2>📊 Github stats</h2> 
   
   [![](https://github-readme-stats.vercel.app/api?username=edson-06&show_icons=true&theme=material-palenight&hide_border=true&locale=en)](https://github.com/edson-06)
   [![](https://github-readme-streak-stats.herokuapp.com/?user=edson-06&theme=material-palenight&hide_border=true)](https://github.com/edson-06)
