@@ -9,26 +9,19 @@
 ```
 
 I'm Edson
----------------------------------------------------------------------------
 💻 Software Developer passionate about technology.
 🚀 Currently working with Java, C#, Python, Dart and SQL.
 📚 Learning new technologies and best development practices.
 💡 Goal: Keep growing as a developer and contribute to innovative projects.
----------------------------------------------------------------------------
-```
+``` 
 -->
-<pre>
-    
 I'm Edson
----------------------------------------------------------------------------
-💻 Software Developer passionate about technology.
-🚀 Currently working with Java, C#, Python, Dart and SQL.
-📚 Learning new technologies and best development practices.
-💡 Goal: Keep growing as a developer and contribute to innovative projects.
----------------------------------------------------------------------------
-</pre>
-<br>
+- 💻 Software Developer passionate about technology.
+- 🚀 Currently working with Java, C#, Python, Dart and SQL.
+- 📚 Learning new technologies and best development practices.
+- 💡 Goal: Keep growing as a developer and contribute to innovative projects.
 
+<br>
 <div>
   <h2>💻 Tech Stack</h2>
   <a href="https://skillicons.dev">
